@@ -13,6 +13,35 @@
 		DD74E9051FF2223F007077EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9041FF2223F007077EF /* Assets.xcassets */; };
 		DD74E9081FF2223F007077EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9061FF2223F007077EF /* LaunchScreen.storyboard */; };
 		DD74E90B1FF2223F007077EF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E90A1FF2223F007077EF /* main.m */; };
+		DD74E95A1FF22442007077EF /* FLAnimatedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9401FF22442007077EF /* FLAnimatedImage.m */; };
+		DD74E95B1FF22442007077EF /* FLAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9421FF22442007077EF /* FLAnimatedImageView.m */; };
+		DD74E95C1FF22442007077EF /* XHLaunchAd.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9451FF22442007077EF /* XHLaunchAd.m */; };
+		DD74E95D1FF22442007077EF /* XHLaunchAdButton.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9471FF22442007077EF /* XHLaunchAdButton.m */; };
+		DD74E95E1FF22442007077EF /* XHLaunchAdCache.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9491FF22442007077EF /* XHLaunchAdCache.m */; };
+		DD74E95F1FF22442007077EF /* XHLaunchAdConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E94B1FF22442007077EF /* XHLaunchAdConfiguration.m */; };
+		DD74E9601FF22442007077EF /* XHLaunchAdConst.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E94D1FF22442007077EF /* XHLaunchAdConst.m */; };
+		DD74E9611FF22442007077EF /* XHLaunchAdController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E94F1FF22442007077EF /* XHLaunchAdController.m */; };
+		DD74E9621FF22442007077EF /* XHLaunchAdDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9511FF22442007077EF /* XHLaunchAdDownloader.m */; };
+		DD74E9631FF22442007077EF /* XHLaunchAdImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9531FF22442007077EF /* XHLaunchAdImageManager.m */; };
+		DD74E9641FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9551FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.m */; };
+		DD74E9651FF22442007077EF /* XHLaunchAdView.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9571FF22442007077EF /* XHLaunchAdView.m */; };
+		DD74E9661FF22442007077EF /* XHLaunchImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9591FF22442007077EF /* XHLaunchImageView.m */; };
+		DD74E9731FF2248D007077EF /* image0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9681FF2248D007077EF /* image0.jpg */; };
+		DD74E9741FF2248D007077EF /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9691FF2248D007077EF /* image1.jpg */; };
+		DD74E9751FF2248D007077EF /* image11.gif in Resources */ = {isa = PBXBuildFile; fileRef = DD74E96A1FF2248D007077EF /* image11.gif */; };
+		DD74E9761FF2248D007077EF /* image12.gif in Resources */ = {isa = PBXBuildFile; fileRef = DD74E96B1FF2248D007077EF /* image12.gif */; };
+		DD74E9771FF2248D007077EF /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD74E96C1FF2248D007077EF /* image2.jpg */; };
+		DD74E9781FF2248D007077EF /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD74E96D1FF2248D007077EF /* image3.jpg */; };
+		DD74E9791FF2248D007077EF /* image4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD74E96E1FF2248D007077EF /* image4.jpg */; };
+		DD74E97A1FF2248D007077EF /* LaunchImageAd.json in Resources */ = {isa = PBXBuildFile; fileRef = DD74E96F1FF2248D007077EF /* LaunchImageAd.json */; };
+		DD74E97B1FF2248D007077EF /* LaunchVideoAd.json in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9701FF2248D007077EF /* LaunchVideoAd.json */; };
+		DD74E97C1FF2248D007077EF /* video0.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9711FF2248D007077EF /* video0.mp4 */; };
+		DD74E97D1FF2248D007077EF /* video1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DD74E9721FF2248D007077EF /* video1.mp4 */; };
+		DD74E9801FF224D8007077EF /* XHLaunchAdManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E97E1FF224D7007077EF /* XHLaunchAdManager.m */; };
+		DD74E9841FF2250A007077EF /* Network.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9821FF2250A007077EF /* Network.m */; };
+		DD74E9871FF22525007077EF /* LaunchAdModel.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9851FF22525007077EF /* LaunchAdModel.m */; };
+		DD74E98A1FF22531007077EF /* UIViewController+Nav.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E9891FF22531007077EF /* UIViewController+Nav.m */; };
+		DD74E98D1FF2253D007077EF /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD74E98B1FF2253D007077EF /* WebViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +55,53 @@
 		DD74E9071FF2223F007077EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD74E9091FF2223F007077EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD74E90A1FF2223F007077EF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DD74E93F1FF22442007077EF /* FLAnimatedImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FLAnimatedImage.h; sourceTree = "<group>"; };
+		DD74E9401FF22442007077EF /* FLAnimatedImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FLAnimatedImage.m; sourceTree = "<group>"; };
+		DD74E9411FF22442007077EF /* FLAnimatedImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FLAnimatedImageView.h; sourceTree = "<group>"; };
+		DD74E9421FF22442007077EF /* FLAnimatedImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FLAnimatedImageView.m; sourceTree = "<group>"; };
+		DD74E9441FF22442007077EF /* XHLaunchAd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAd.h; sourceTree = "<group>"; };
+		DD74E9451FF22442007077EF /* XHLaunchAd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAd.m; sourceTree = "<group>"; };
+		DD74E9461FF22442007077EF /* XHLaunchAdButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdButton.h; sourceTree = "<group>"; };
+		DD74E9471FF22442007077EF /* XHLaunchAdButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdButton.m; sourceTree = "<group>"; };
+		DD74E9481FF22442007077EF /* XHLaunchAdCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdCache.h; sourceTree = "<group>"; };
+		DD74E9491FF22442007077EF /* XHLaunchAdCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdCache.m; sourceTree = "<group>"; };
+		DD74E94A1FF22442007077EF /* XHLaunchAdConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdConfiguration.h; sourceTree = "<group>"; };
+		DD74E94B1FF22442007077EF /* XHLaunchAdConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdConfiguration.m; sourceTree = "<group>"; };
+		DD74E94C1FF22442007077EF /* XHLaunchAdConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdConst.h; sourceTree = "<group>"; };
+		DD74E94D1FF22442007077EF /* XHLaunchAdConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdConst.m; sourceTree = "<group>"; };
+		DD74E94E1FF22442007077EF /* XHLaunchAdController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdController.h; sourceTree = "<group>"; };
+		DD74E94F1FF22442007077EF /* XHLaunchAdController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdController.m; sourceTree = "<group>"; };
+		DD74E9501FF22442007077EF /* XHLaunchAdDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdDownloader.h; sourceTree = "<group>"; };
+		DD74E9511FF22442007077EF /* XHLaunchAdDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdDownloader.m; sourceTree = "<group>"; };
+		DD74E9521FF22442007077EF /* XHLaunchAdImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdImageManager.h; sourceTree = "<group>"; };
+		DD74E9531FF22442007077EF /* XHLaunchAdImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdImageManager.m; sourceTree = "<group>"; };
+		DD74E9541FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "XHLaunchAdImageView+XHLaunchAdCache.h"; sourceTree = "<group>"; };
+		DD74E9551FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "XHLaunchAdImageView+XHLaunchAdCache.m"; sourceTree = "<group>"; };
+		DD74E9561FF22442007077EF /* XHLaunchAdView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdView.h; sourceTree = "<group>"; };
+		DD74E9571FF22442007077EF /* XHLaunchAdView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdView.m; sourceTree = "<group>"; };
+		DD74E9581FF22442007077EF /* XHLaunchImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchImageView.h; sourceTree = "<group>"; };
+		DD74E9591FF22442007077EF /* XHLaunchImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchImageView.m; sourceTree = "<group>"; };
+		DD74E9681FF2248D007077EF /* image0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image0.jpg; sourceTree = "<group>"; };
+		DD74E9691FF2248D007077EF /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
+		DD74E96A1FF2248D007077EF /* image11.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image11.gif; sourceTree = "<group>"; };
+		DD74E96B1FF2248D007077EF /* image12.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image12.gif; sourceTree = "<group>"; };
+		DD74E96C1FF2248D007077EF /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
+		DD74E96D1FF2248D007077EF /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
+		DD74E96E1FF2248D007077EF /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image4.jpg; sourceTree = "<group>"; };
+		DD74E96F1FF2248D007077EF /* LaunchImageAd.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LaunchImageAd.json; sourceTree = "<group>"; };
+		DD74E9701FF2248D007077EF /* LaunchVideoAd.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LaunchVideoAd.json; sourceTree = "<group>"; };
+		DD74E9711FF2248D007077EF /* video0.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video0.mp4; sourceTree = "<group>"; };
+		DD74E9721FF2248D007077EF /* video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.mp4; sourceTree = "<group>"; };
+		DD74E97E1FF224D7007077EF /* XHLaunchAdManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XHLaunchAdManager.m; sourceTree = "<group>"; };
+		DD74E97F1FF224D8007077EF /* XHLaunchAdManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XHLaunchAdManager.h; sourceTree = "<group>"; };
+		DD74E9821FF2250A007077EF /* Network.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Network.m; sourceTree = "<group>"; };
+		DD74E9831FF2250A007077EF /* Network.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Network.h; sourceTree = "<group>"; };
+		DD74E9851FF22525007077EF /* LaunchAdModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LaunchAdModel.m; sourceTree = "<group>"; };
+		DD74E9861FF22525007077EF /* LaunchAdModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LaunchAdModel.h; sourceTree = "<group>"; };
+		DD74E9881FF22531007077EF /* UIViewController+Nav.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Nav.h"; sourceTree = "<group>"; };
+		DD74E9891FF22531007077EF /* UIViewController+Nav.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Nav.m"; sourceTree = "<group>"; };
+		DD74E98B1FF2253D007077EF /* WebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		DD74E98C1FF2253D007077EF /* WebViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +134,8 @@
 		DD74E8FA1FF2223E007077EF /* XHLaunchTest */ = {
 			isa = PBXGroup;
 			children = (
+				DD74E93C1FF22442007077EF /* XHLaunchAd */,
+				DD74E9811FF224F1007077EF /* code */,
 				DD74E8FB1FF2223E007077EF /* AppDelegate.h */,
 				DD74E8FC1FF2223E007077EF /* AppDelegate.m */,
 				DD74E8FE1FF2223E007077EF /* ViewController.h */,
@@ -69,6 +147,99 @@
 				DD74E90A1FF2223F007077EF /* main.m */,
 			);
 			path = XHLaunchTest;
+			sourceTree = "<group>";
+		};
+		DD74E93C1FF22442007077EF /* XHLaunchAd */ = {
+			isa = PBXGroup;
+			children = (
+				DD74E9671FF2248D007077EF /* Source */,
+				DD74E93D1FF22442007077EF /* Lib */,
+				DD74E9431FF22442007077EF /* XHLaunchAd */,
+			);
+			path = XHLaunchAd;
+			sourceTree = SOURCE_ROOT;
+		};
+		DD74E93D1FF22442007077EF /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				DD74E93E1FF22442007077EF /* FLAnimatedImage */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		DD74E93E1FF22442007077EF /* FLAnimatedImage */ = {
+			isa = PBXGroup;
+			children = (
+				DD74E93F1FF22442007077EF /* FLAnimatedImage.h */,
+				DD74E9401FF22442007077EF /* FLAnimatedImage.m */,
+				DD74E9411FF22442007077EF /* FLAnimatedImageView.h */,
+				DD74E9421FF22442007077EF /* FLAnimatedImageView.m */,
+			);
+			path = FLAnimatedImage;
+			sourceTree = "<group>";
+		};
+		DD74E9431FF22442007077EF /* XHLaunchAd */ = {
+			isa = PBXGroup;
+			children = (
+				DD74E9441FF22442007077EF /* XHLaunchAd.h */,
+				DD74E9451FF22442007077EF /* XHLaunchAd.m */,
+				DD74E9461FF22442007077EF /* XHLaunchAdButton.h */,
+				DD74E9471FF22442007077EF /* XHLaunchAdButton.m */,
+				DD74E9481FF22442007077EF /* XHLaunchAdCache.h */,
+				DD74E9491FF22442007077EF /* XHLaunchAdCache.m */,
+				DD74E94A1FF22442007077EF /* XHLaunchAdConfiguration.h */,
+				DD74E94B1FF22442007077EF /* XHLaunchAdConfiguration.m */,
+				DD74E94C1FF22442007077EF /* XHLaunchAdConst.h */,
+				DD74E94D1FF22442007077EF /* XHLaunchAdConst.m */,
+				DD74E94E1FF22442007077EF /* XHLaunchAdController.h */,
+				DD74E94F1FF22442007077EF /* XHLaunchAdController.m */,
+				DD74E9501FF22442007077EF /* XHLaunchAdDownloader.h */,
+				DD74E9511FF22442007077EF /* XHLaunchAdDownloader.m */,
+				DD74E9521FF22442007077EF /* XHLaunchAdImageManager.h */,
+				DD74E9531FF22442007077EF /* XHLaunchAdImageManager.m */,
+				DD74E9541FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.h */,
+				DD74E9551FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.m */,
+				DD74E9561FF22442007077EF /* XHLaunchAdView.h */,
+				DD74E9571FF22442007077EF /* XHLaunchAdView.m */,
+				DD74E9581FF22442007077EF /* XHLaunchImageView.h */,
+				DD74E9591FF22442007077EF /* XHLaunchImageView.m */,
+			);
+			path = XHLaunchAd;
+			sourceTree = "<group>";
+		};
+		DD74E9671FF2248D007077EF /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				DD74E9681FF2248D007077EF /* image0.jpg */,
+				DD74E9691FF2248D007077EF /* image1.jpg */,
+				DD74E96A1FF2248D007077EF /* image11.gif */,
+				DD74E96B1FF2248D007077EF /* image12.gif */,
+				DD74E96C1FF2248D007077EF /* image2.jpg */,
+				DD74E96D1FF2248D007077EF /* image3.jpg */,
+				DD74E96E1FF2248D007077EF /* image4.jpg */,
+				DD74E96F1FF2248D007077EF /* LaunchImageAd.json */,
+				DD74E9701FF2248D007077EF /* LaunchVideoAd.json */,
+				DD74E9711FF2248D007077EF /* video0.mp4 */,
+				DD74E9721FF2248D007077EF /* video1.mp4 */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		DD74E9811FF224F1007077EF /* code */ = {
+			isa = PBXGroup;
+			children = (
+				DD74E97F1FF224D8007077EF /* XHLaunchAdManager.h */,
+				DD74E97E1FF224D7007077EF /* XHLaunchAdManager.m */,
+				DD74E98C1FF2253D007077EF /* WebViewController.h */,
+				DD74E98B1FF2253D007077EF /* WebViewController.m */,
+				DD74E9831FF2250A007077EF /* Network.h */,
+				DD74E9821FF2250A007077EF /* Network.m */,
+				DD74E9861FF22525007077EF /* LaunchAdModel.h */,
+				DD74E9851FF22525007077EF /* LaunchAdModel.m */,
+				DD74E9881FF22531007077EF /* UIViewController+Nav.h */,
+				DD74E9891FF22531007077EF /* UIViewController+Nav.m */,
+			);
+			path = code;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,8 +300,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD74E9781FF2248D007077EF /* image3.jpg in Resources */,
+				DD74E97D1FF2248D007077EF /* video1.mp4 in Resources */,
+				DD74E97B1FF2248D007077EF /* LaunchVideoAd.json in Resources */,
+				DD74E9731FF2248D007077EF /* image0.jpg in Resources */,
+				DD74E9741FF2248D007077EF /* image1.jpg in Resources */,
+				DD74E97A1FF2248D007077EF /* LaunchImageAd.json in Resources */,
+				DD74E9751FF2248D007077EF /* image11.gif in Resources */,
+				DD74E9761FF2248D007077EF /* image12.gif in Resources */,
 				DD74E9081FF2223F007077EF /* LaunchScreen.storyboard in Resources */,
+				DD74E9791FF2248D007077EF /* image4.jpg in Resources */,
 				DD74E9051FF2223F007077EF /* Assets.xcassets in Resources */,
+				DD74E97C1FF2248D007077EF /* video0.mp4 in Resources */,
+				DD74E9771FF2248D007077EF /* image2.jpg in Resources */,
 				DD74E9031FF2223F007077EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,9 +324,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD74E95E1FF22442007077EF /* XHLaunchAdCache.m in Sources */,
+				DD74E98D1FF2253D007077EF /* WebViewController.m in Sources */,
+				DD74E95D1FF22442007077EF /* XHLaunchAdButton.m in Sources */,
+				DD74E9631FF22442007077EF /* XHLaunchAdImageManager.m in Sources */,
+				DD74E9871FF22525007077EF /* LaunchAdModel.m in Sources */,
+				DD74E95F1FF22442007077EF /* XHLaunchAdConfiguration.m in Sources */,
+				DD74E9611FF22442007077EF /* XHLaunchAdController.m in Sources */,
+				DD74E9621FF22442007077EF /* XHLaunchAdDownloader.m in Sources */,
+				DD74E95A1FF22442007077EF /* FLAnimatedImage.m in Sources */,
+				DD74E9661FF22442007077EF /* XHLaunchImageView.m in Sources */,
 				DD74E9001FF2223E007077EF /* ViewController.m in Sources */,
+				DD74E9601FF22442007077EF /* XHLaunchAdConst.m in Sources */,
+				DD74E9801FF224D8007077EF /* XHLaunchAdManager.m in Sources */,
+				DD74E95B1FF22442007077EF /* FLAnimatedImageView.m in Sources */,
+				DD74E9651FF22442007077EF /* XHLaunchAdView.m in Sources */,
+				DD74E98A1FF22531007077EF /* UIViewController+Nav.m in Sources */,
 				DD74E90B1FF2223F007077EF /* main.m in Sources */,
 				DD74E8FD1FF2223E007077EF /* AppDelegate.m in Sources */,
+				DD74E95C1FF22442007077EF /* XHLaunchAd.m in Sources */,
+				DD74E9841FF2250A007077EF /* Network.m in Sources */,
+				DD74E9641FF22442007077EF /* XHLaunchAdImageView+XHLaunchAdCache.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
